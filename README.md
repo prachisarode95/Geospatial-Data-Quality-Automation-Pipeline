@@ -1,4 +1,4 @@
-# Geospatial Data Quality Automation Pipeline  
+# Spatial Data Quality Automation Pipeline  
 > Automated Spatial QA for Urban GIS Layers using Python & PostGIS
 ---
 
